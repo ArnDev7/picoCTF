@@ -1,6 +1,4 @@
-# Rev Eng
-
-### keygenme-py
+## keygenme-py
 
 After opening the python file,I noticed the username and the half written flag.
 \

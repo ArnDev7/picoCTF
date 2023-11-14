@@ -8,3 +8,14 @@ downloaded the attached file and opened to find out that the user input gets pro
 (to list out all the files)
 
 \
+
+`cat falg.txt`
+\
+to get the final flag
+\
+\
+
+flag: **picoCTF{moooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo0o}**
+
+---
+

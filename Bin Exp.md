@@ -13,3 +13,11 @@ it gave some text which contained the flag but wasnt properly arrnaged. I delete
 flag: **picoCTF{I_l05t_4ll_my_m0n3y_1cf201a0}**
 
 ---
+
+## Buffer overflow 0
+
+I connected to `nc saturn.picoctf.net 65443` 
+
+
+
+[Reference](https://programmingfire.com/picoctf-2022-binary-exploitation-buffer-overflow-0)

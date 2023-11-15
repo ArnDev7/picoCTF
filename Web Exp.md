@@ -28,5 +28,20 @@ then entered `../../../../flag.txt`, to get through the filter and as there were
 
 flag: **picoCTF{7h3_p47h_70_5ucc355_6db46514}**
 
+---
+
+## Local authority
+
+I opened the website link and inspect to view the source code wherein i see `action="login.php"` 
+
+I then added `login.php` to the web address and inspected which led me to a 'secure.js' file which contained the password for the page.
+
+
+flag: **picoCTF{j5_15_7r4n5p4r3n7_a8788e61}**
+
+---
+
+
+
 
 

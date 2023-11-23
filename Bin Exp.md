@@ -18,6 +18,11 @@ flag: **picoCTF{I_l05t_4ll_my_m0n3y_1cf201a0}**
 
 I connected to `nc saturn.picoctf.net 65443` 
 
+viewed the source code and identified a segmentation error in the code
+therefore, just typed random characters in the terminal to get the flag
+
+flag: **picoCTF{ov3rfl0ws_ar3nt_that_bad_c5ca6248}**
+
 
 [Reference](https://programmingfire.com/picoctf-2022-binary-exploitation-buffer-overflow-0)
 

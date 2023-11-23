@@ -20,3 +20,20 @@ flag: **picoCTF{1n_7h3_|<3y_of_e584b363}**
 
 ---
 
+## crackme-py
+
+Opened the file and found that its rot47
+`A:4@r%uLM-^M0c0AbcM-MFE0d_a3hgc3N`
+
+went to a rot47 decoder and got the key right away
+
+flag: **picoCTF{1|\/|_4_p34|\|ut_502b984b}**
+
+---
+
+## GDB baby step 1 
+
+not able to solve... :(
+
+
+

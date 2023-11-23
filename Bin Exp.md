@@ -21,6 +21,6 @@ I connected to `nc saturn.picoctf.net 65443`
 
 [Reference](https://programmingfire.com/picoctf-2022-binary-exploitation-buffer-overflow-0)
 
-[xa?](https://linux.die.net/man/1/xa)
+[Ref 2](https://linux.die.net/man/1/xa)
 
 
